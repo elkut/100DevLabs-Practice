@@ -1,0 +1,6 @@
+div {
+  margin: 10px 20px; /* Here we are using 10px for margin-top&margin-bottom, 20px for margin-left&margin-right*/
+  margin: 10px 20px 0px 15px; /* Here we have 10px top, 20px right, 0px bottom, and 15px left*/
+  margin-top: 10px;
+  padding-left: 6px;
+}
