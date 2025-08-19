@@ -335,3 +335,7 @@ img {
 .venue-hotel {
   margin-bottom: 22px;
 }
+
+.venue-map {
+  height: 295px;
+}
